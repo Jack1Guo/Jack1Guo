@@ -41,3 +41,6 @@ And I look it up at CSDN.It gives me two ways.
 
 (2)Change the users‘ ip. Successfully!But it needs password.![](/Users/guorunhang/Desktop/截屏2022-09-11 15.16.03.png)
 
+### Principle of secret free login based on SSH key
+
+![IMG_1261](https://tva1.sinaimg.cn/large/e6c9d24ely1h63mflffk0j21400u0tm7.jpg)
