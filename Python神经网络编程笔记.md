@@ -33,7 +33,9 @@
 * 过程矢量化：误差反向出阿波通过使用矩阵乘法变得更加简洁，使用符号写出步骤
 * 神经网络的误差函数取决于许多的权重参数
 * 饱和会降低神经网络学习到更好权重的能力。
-* 零值信号或者零值权重会使网络上是学习更好权重的能力。![](https://tva1.sinaimg.cn/large/e6c9d24egy1h66edh664nj21400u0q8x.jpg)![](https://tva1.sinaimg.cn/large/e6c9d24egy1h66ed2gsaej21400u0jzd.jpg)
+* 代价函数是整个训练集的损失函数的平均值
+* 零值信号或者零值权重会使网络上是学习更好权重的能力。
+* ![](https://tva1.sinaimg.cn/large/e6c9d24egy1h66edh664nj21400u0q8x.jpg)![](https://tva1.sinaimg.cn/large/e6c9d24egy1h66ed2gsaej21400u0jzd.jpg)
 ## 梯度
 * 梯度下降（梯度：地面的坡度），采用步进的方式。
 * 当函数梯度变得较小时调节步长。（梯度是不是可以看成变化率或者斜率） ！！！救命 还没学过偏导
